@@ -1,0 +1,6 @@
+Sale_Type,Color
+NA_Sales,blue
+EU_Sales,green
+JP_Sales,red
+Other_Sales,orange
+Sales_per_Console,yellow

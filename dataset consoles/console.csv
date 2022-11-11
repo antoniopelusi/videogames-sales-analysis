@@ -1,0 +1,45 @@
+ConsoleID,Console_Name,Manufacturer,Release_Year,Sales,Type
+PC,Personal Computer,Computer,1975,1000,Home
+PS2,PlayStation 2,Sony,2000,155,Home
+DS,Nintendo DS,Nintendo,2004,154.02,Handheld
+GB,Game Boy,Nintendo,1989,118.69,Handheld
+PS4,PlayStation 4,Sony,2013,108.9,Home
+PS,PlayStation,Sony,1994,102.49,Home
+Wii,Wii,Nintendo,2006,101.63,Home
+PS3,PlayStation 3,Sony,2006,87.4,Home
+X360,Xbox 360,Microsoft,2005,84,Home
+GBA,Game Boy Advance,Nintendo,2001,81.51,Handheld
+PSP,PlayStation Portable,Sony,2004,80,Handheld
+3DS,Nintendo 3DS,Nintendo,2011,75.71,Handheld
+NES,Nintendo Entertainment System,Nintendo,1983,61.91,Home
+SWITCH,Nintendo Switch,Nintendo,2017,52.48,Home
+SNES,Super Nintendo Entertainment System,Nintendo,1990,49.1,Home
+XOne,Xbox One,Microsoft,2013,46.9,Home
+GEN,Sega Genesis,Sega,1988,35,Home
+N64,Nintendo 64,Nintendo,1996,32.93,Home
+2600,Atari 2600,Atari,1977,30,Home
+XB,Xbox,Microsoft,2001,24,Home
+GC,GameCube,Nintendo,2001,21.74,Home
+WiiU,Wii U,Nintendo,2012,13.56,Home
+GG,Sega Game Gear,Sega,1990,10.62,Handheld
+PSV,PlayStation Vita,Sony,2011,10,Handheld
+TG16,TurboGrafx-16,NEC,1987,10,Home
+MS,Master System,Sega,1986,10,Home
+SAT,Sega Saturn,Sega,1994,9.26,Home
+DC,Dreamcast,Sega,1998,9.13,Home
+SNESC,Super NES Classic Edition,Nintendo,2017,5.28,Home
+WS,WonderSwan,Bandai,1999,3.5,Handheld
+SPICO,Sega Pico,Sega,1993,3.4,Home
+NG,N-Gage,Nokia,2003,3,Handheld
+CTVG,Color TV-Game,Nintendo,1977,3,Home
+INTE,Intellivision,Mattel,1980,3,Home
+NESC,NES Classic Edition,Nintendo,2016,2.3,Home
+SCD,Sega CD,Sega,1991,2,Home
+3DO,3DO Interactive Multiplayer,Panasonic,1993,2,Home
+COLV,ColecoVision,Coleco,1982,2,Home
+ODY,Magnavox Odyssey,Magnavox,1972,2,Home
+LYNX,Atari Lynx,Atari,1989,1,Handheld
+CDI,Philips CD-i,Philips,1991,1,Home
+TELS,Telstar,Coleco,1976,1,Home
+5200,Atari 5200,Atari,1982,1,Home
+PCFX,PC-FX,NEC,1994,0.4,Home
