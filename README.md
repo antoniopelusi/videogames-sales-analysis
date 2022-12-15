@@ -1,45 +1,54 @@
 # videogames-sales-analysis
-Analisi esplorativa e di correlazione tra le vendite di videogiochi e consoles nel mondo.
 
-## Indice
-0. **Introduzione**
+Exploratory analysis and correlation between sales of video games and consoles in the world.
 
-1. **Collezione dei dati**
+## Index
+0. **Introduction**
 
-    - Dataset vendite videogiochi
+1. **Data Collection**
 
-    - Dataset vendite consoles
+     - Video game sales dataset
 
-2. **Elaborazione dei dati**
+     - Console sales dataset
 
-    - Pulizia dei dataset
+2. **Data Processing**
 
-    - Controllo validità delle vendite globali
+     - Cleanup of datasets
 
-    - Controllo editori con pochi giochi pubblicati
+     - Validity check of global sales
 
-3. **Analisi esplorativa**
+     - Publisher control with few published games
+
+3. **Exploratory analysis**
     
-    - Dataset videogames
+     - Videogame datasets
     
-    - Dataset consoles
+     - Dataset consoles
 
 4. **Testing**
-    - Calcolo correlazione tra le vendite dei videogiochi nelle varie regioni
+     - Correlation calculation between video game sales in the various regions
 
-    - Calcolo della correlazione monotona tra la vendita di una console e la vendita dei videogiochi sviluppati per la stessa console
+     - Calculation of the monotonic correlation between the sale of a console and the sale of videogames developed for the same console
 
-    - Calcolo della correlazione monotona tra il numero di videogiochi sviluppati e le vendite di videogiochi
+     - Calculation of the monotonic correlation between the number of video games developed and video game sales
     
-5. **Risultati e conclusioni**
+5. **Results and conclusions**
 
-## Files della repository
-- Analisi scritta in **Python** su un **notebook Jupyter** *(videogames-sales-analysis.ipynb)*, utilizza le seguenti librerie:
-  - **Pandas** (Importazione dei datasets)
-  - **NumPy** (Funzioni matematiche)
-  - **MissingNo** (Visualizzazione valori nulli nei datasets)
-  - **MatPlotLib** (Grafici e statistiche)
-  - **Seaborn** (Grafici e statistiche)
-- Script per lo scraping dei videogiochi da [vgChartz](https://www.vgchartz.com/gamedb/) scritto in **Python** *(vgchartz-scraper.ipynb)*
-- Dataset vendite dei videogiochi ricavato dallo scraping di [vgChartz](https://www.vgchartz.com/gamedb/) *(vgsales.csv)*
-- Dataset vendite di console recuperato da [Kaggle.com](https://www.kaggle.com/datasets/jaimepazlopes/game-console-manufactor-and-sales) *(console.csv)*
+## Repository files
+- Analysis written in **Python** on a **Jupyter notebook** *(videogames-sales-analysis.ipynb)*, uses the following libraries:
+
+   - **Pandas** (Import of datasets)
+   
+   - **NumPy** (Math functions)
+   
+   - **MissingNo** (Displaying null values in datasets)
+   
+   - **MatPlotLib** (Graphs and statistics)
+   
+   - **Seaborn** (Charts and stats)
+   
+- Game scraping script from [vgChartz](https://www.vgchartz.com/gamedb/) written in **Python** *(vgchartz-scraper.ipynb)*
+
+- Video game sales dataset obtained from the scraping of [vgChartz](https://www.vgchartz.com/gamedb/) *(vgsales.csv)*
+
+- Console sales dataset retrieved from [Kaggle.com](https://www.kaggle.com/datasets/jaimepazlopes/game-console-manufactor-and-sales) *(console.csv)*
